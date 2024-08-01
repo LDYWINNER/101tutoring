@@ -1,0 +1,6 @@
+Chicken Quarters,1.49
+Chicken Whole,1.19
+Beef Ground,2.99
+Apples,.99
+Bananas,.39
+Raspberries,1.99

@@ -1,0 +1,6 @@
+Honey,.38
+Maple Syrup,.56
+Free Rice,0.0
+Tuna,1.49
+Garlic,2.99
+Ginger,3.99

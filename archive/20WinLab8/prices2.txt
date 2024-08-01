@@ -1,0 +1,8 @@
+Avocados,1.25
+Carrots,1.00
+Corn,.25
+Pears,1.00
+Broccoli,.99
+Ketchup,2.49
+Mustard,1.79
+Vinegar,1.88
